@@ -17,3 +17,4 @@ console.log(`${currentTemp <= 5 ? 'Chilled to perfection!' : 'Needs a cooler!'}`
 // #### Challenge 5: Late Night Coding Session
 let currentHour = 22;
 console.log(`${currentHour >= 7 && currentHour < 24 ? 'Unleash the beast!' : 'Better stick to water.'}`);
+
